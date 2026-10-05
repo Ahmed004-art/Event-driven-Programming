@@ -1,10 +1,10 @@
 # Java Swing First Individual Assignment
 
-**Student Name:** Ahmed Junior Kamara  
-**Class:** DIT1101F
-**ID:** 905005337
-**Application:** Java Swing Assignment  
-**Main Class:** `ClassAssignment`
+- **Student Name:** Ahmed Junior Kamara
+- **Class:** DIT1101F
+- **ID:** 905005337
+- **Application:** Java Swing Assignment
+- **Main Class:** `ClassAssignment`
 
 ## Project Description
 
@@ -40,6 +40,9 @@ The application was designed based on the approved Figma wireframes included in 
 
 - **Low Fidelity Wireframe**: Displays the initial concept and layout structure of the application.
 - **High Fidelity Wireframe**: Displays the final approved design, colors, and typography that were meticulously implemented in Java Swing.
+
+You can view the interactive Figma wireframes here:
+[Figma Design Link](https://www.figma.com/design/pUzWesrdZkEbSpYOpzIEdR/Untitled?node-id=0-1&t=rMJ4CTMnNHMnYXrq-1)
 
 ## How to Run
 
