@@ -1,6 +1,8 @@
 # Java Swing First Individual Assignment
 
 **Student Name:** Ahmed Junior Kamara  
+**Class:** DIT1101F
+**ID:** 905005337
 **Application:** Java Swing Assignment  
 **Main Class:** `ClassAssignment`
 
