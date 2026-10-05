@@ -27,8 +27,17 @@ project/
 │   └── ClassAssignment.java
 ├── assets/
 │   └── app_icon.png
+├── Wireframes/
+│   ├── High Fedelity.png
+│   └── Low Fedelity.png
 └── README.md
 ```
+
+## Wireframes
+The application was designed based on the approved Figma wireframes included in the `Wireframes/` directory:
+
+- **Low Fidelity Wireframe**: Displays the initial concept and layout structure of the application.
+- **High Fidelity Wireframe**: Displays the final approved design, colors, and typography that were meticulously implemented in Java Swing.
 
 ## How to Run
 
