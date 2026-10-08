@@ -38,11 +38,18 @@ project/
 ## Wireframes
 The application was designed based on the approved Figma wireframes included in the `Wireframes/` directory:
 
-- **Low Fidelity Wireframe**: Displays the initial concept and layout structure of the application.
-- **High Fidelity Wireframe**: Displays the final approved design, colors, and typography that were meticulously implemented in Java Swing.
+### Low Fidelity Wireframe
+Displays the initial concept and layout structure of the application.
+
+![Low Fidelity Wireframe](Wireframes/Low%20Fidelity.png)
+
+### High Fidelity Wireframe
+Displays the final approved design, colors, and typography that were meticulously implemented in Java Swing.
+
+![High Fidelity Wireframe](Wireframes/High%20Fidelity.png)
 
 You can view the interactive Figma wireframes here:
-[Figma Design Link](https://www.figma.com/design/pUzWesrdZkEbSpYOpzIEdR/Untitled?node-id=0-1&t=rMJ4CTMnNHMnYXrq-1)
+[Figma Design Link](https://www.figma.com/design/pUzWesrdZkEbSpYOpzIEdR/Untitled?node-id=0-1&p=f&t=7xK6wfby497p5LHe-0)
 
 ## How to Run
 
