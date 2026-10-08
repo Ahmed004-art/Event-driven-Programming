@@ -4,7 +4,7 @@
 - **Class:** DIT1101F
 - **ID:** 905005337
 - **Application:** Java Swing Assignment
-- **Main Class:** `ClassAssignment`
+- **Main Class:** `SwingAssignment`
 
 ## Project Description
 
@@ -26,12 +26,12 @@ The application perfectly replicates the approved Figma design featuring a clean
 ```
 project/
 ├── src/
-│   └── ClassAssignment.java
+│   └── SwingAssignment.java
 ├── assets/
 │   └── app_icon.png
 ├── Wireframes/
-│   ├── High Fedelity.png
-│   └── Low Fedelity.png
+│   ├── High Fidelity.png
+│   └── Low Fidelity.png
 └── README.md
 ```
 
@@ -49,11 +49,11 @@ You can view the interactive Figma wireframes here:
 1. Open your terminal or command prompt and navigate to this `project` directory.
 2. Compile the Java source code:
    ```bash
-   javac -d bin src/ClassAssignment.java
+   javac -d bin src/SwingAssignment.java
    ```
 3. Run the application (ensuring `assets` is accessible):
    ```bash
-   java -cp bin ClassAssignment
+   java -cp bin SwingAssignment
    ```
 
 ## Development Requirements Addressed

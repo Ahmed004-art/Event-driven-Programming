@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.net.URL;
 
-public class ClassAssignment {
+public class SwingAssignment {
 
     JFrame frame;
     JPanel panel;
@@ -19,7 +19,7 @@ public class ClassAssignment {
     JPanel cardPanel;
     JPanel buttonPanel;
 
-    public ClassAssignment() {
+    public SwingAssignment() {
         // 1. Initialize JFrame
         frame = new JFrame("Java Swing Assignment");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -73,7 +73,7 @@ public class ClassAssignment {
         cardPanel.setAlignmentX(Component.CENTER_ALIGNMENT);
 
         // Welcome Label
-        label = new JLabel("<html><div style='text-align: center;'>Welcome to Java Swing First<br>Individual Assignment</div></html>", SwingConstants.CENTER);
+        label = new JLabel("Welcome to Java Swing First Individual Assignment by 'Ahmed Kamara'", SwingConstants.CENTER);
         label.setFont(new Font("SansSerif", Font.BOLD, 22));
         label.setForeground(new Color(0, 30, 80)); // Dark navy
         label.setAlignmentX(Component.CENTER_ALIGNMENT);
@@ -152,7 +152,7 @@ public class ClassAssignment {
             @Override
             public void actionPerformed(ActionEvent e) {
                 // Restore original state
-                label.setText("<html><div style='text-align: center;'>Welcome to Java Swing First<br>Individual Assignment</div></html>");
+                label.setText("Welcome to Java Swing First Individual Assignment by 'Ahmed Kamara'");
                 panel.setBackground(defaultBgColor);
             }
         });
@@ -179,7 +179,7 @@ public class ClassAssignment {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                new ClassAssignment();
+                new SwingAssignment();
             }
         });
     }
